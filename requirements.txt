@@ -1,0 +1,7 @@
+torch
+monai
+numpy
+scipy
+matplotlib
+gradio
+nibabel
